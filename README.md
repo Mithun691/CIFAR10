@@ -7,4 +7,4 @@ The images are low resolution 32*32 rgb images making the task even difficult
 
 The .ipynb file contains implementation of ResNet50 inspired architecture
 
-It achieves 83.2% accuracy on the test set after 20 epochs but is subject a bit of variation each time due to the randomness involved in Stochastic Gradient descent
+It achieves 83.2% accuracy on the test set after 20 epochs but is subject to a bit of variation each time due to the randomness involved in Stochastic Gradient descent
